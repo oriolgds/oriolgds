@@ -139,5 +139,5 @@ I'm a **passionate developer** and **Bachillerato student** from Barcelona, Spai
   <i>💡 "The best code is the code that solves real problems"</i>
   <br><br>
   
-  ![Visitor Count](https://profile-counter.glitch.me/oriolgds/count.svg)
+  ![Profile Views](https://komarev.com/ghpvc/?username=oriolgds&color=blueviolet&style=flat-square&label=Profile+Views)
 </div>
