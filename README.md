@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hey, I'm Oriol!</h1>
-  <h3>🚀 Full-Stack Developer | 🤖 AI Enthusiast | ☀️ Sustainability Advocate</h3>
+  <h3>🚀 Full-Stack Developer</h3>
 </div>
 
 <div align="center">
@@ -20,7 +20,6 @@ I'm a **passionate developer** and **Bachillerato student** from Barcelona, Spai
 
 - 🎓 Currently studying **2º Bachillerato** at Institut de Sales
 - 📚 Planning to study **Mathematics** at **UPC (Universitat Politècnica de Catalunya)**
-- 💚 Building **impactful projects** in renewable energy and healthcare
 - 🏆 2x participant in **JAES Foundation Mini-Company Competition**
   - **Ordinem**: Smart wardrobe system
   - **Tech Gesture**: AI-powered sign language translator
@@ -89,8 +88,8 @@ I'm a **passionate developer** and **Bachillerato student** from Barcelona, Spai
 
 ---
 
-### [👔 Ordinem](https://github.com/oriolgds/ordinem)
-> Smart wardrobe system for intelligent clothing organization
+### [👨‍🍳 Ordinem](https://github.com/oriolgds/ordinem)
+> Smart wardrobe system for intelligent food organization
 
 - 🚪 IoT-enabled wardrobe automation
 - 📱 Mobile app for wardrobe management
@@ -136,7 +135,7 @@ I'm a **passionate developer** and **Bachillerato student** from Barcelona, Spai
 ---
 
 <div align="center">
-  <i>💡 "The best code is the code that solves real problems"</i>
+  <i>💡 "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning."</i>
   <br><br>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=oriolgds&color=blueviolet&style=flat-square&label=Profile+Views)
