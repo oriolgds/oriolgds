@@ -1,14 +1,15 @@
 <div align="center">
   <h1>👋 Hey, I'm Oriol!</h1>
-  <h3>🚀 Full-Stack Developer</h3>
+  <h3>🚀 Full-Stack Developer & Mathematics Student</h3>
 </div>
 
 <div align="center">
   
   [![GitHub followers](https://img.shields.io/github/followers/oriolgds?style=social)](https://github.com/oriolgds)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/oriol-giner/)
-  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=x)](https://x.com/oriolgds)
-  [![Website](https://img.shields.io/badge/Website-Visit-green?style=flat&logo=google-chrome)](https://oriol.is-a.dev/)
+  [![Twitter](https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x)](https://x.com/oriolgds)
+  [![3D Portfolio](https://img.shields.io/badge/3D_Portfolio-Visit-green?style=flat&logo=google-chrome)](https://oriol.is-a.dev/)
+  [![Projects](https://img.shields.io/badge/Projects-Explore-orange?style=flat&logo=rocket)](https://oriol.is-a.dev/proyectos)
   
 </div>
 
@@ -16,15 +17,13 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **passionate developer** and **Bachillerato student** from Barcelona, Spain, building real-world solutions that combine technology with sustainability and healthcare. I love turning ideas into functional apps that solve actual problems.
+I'm a **passionate developer** and **Mathematics student** from Barcelona, Spain, building real-world solutions that combine technology with data analysis, sustainability, and healthcare. I love turning ideas into functional apps that solve actual problems.
 
-- 🎓 Currently studying **2º Bachillerato** at Institut de Sales
-- 📚 Planning to study **Mathematics** at **UPC (Universitat Politècnica de Catalunya)**
+- 🎓 Currently studying a **BSc in Mathematics** at **UB (Universitat de Barcelona)**
 - 🏆 2x participant in **JAES Foundation Mini-Company Competition**
   - **Ordinem**: Smart wardrobe system
   - **Tech Gesture**: AI-powered sign language translator
 - 🌍 Fluent in **Spanish, Catalan, English**
-- 🎵 Music lover: The Weeknd, Travis Scott
 - ⚡ Fun fact: My first app idea came from my dad complaining about solar panels!
 
 ---
@@ -53,7 +52,49 @@ I'm a **passionate developer** and **Bachillerato student** from Barcelona, Spai
 
 ## 🚀 Featured Projects
 
-### [🩺 Docai](https://github.com/oriolgds/docai)
+> 📂 Explore my full project catalog at [**oriol.is-a.dev/proyectos**](https://oriol.is-a.dev/proyectos)
+
+### 1. [🌐 3D Portfolio](https://oriol.is-a.dev/)
+> Interactive 3D web portfolio showcasing my projects, technical skills, and journey
+
+- 🎮 Immersive and interactive 3D browser experience
+- 🚀 Complete showcase of apps and developments at [oriol.is-a.dev/proyectos](https://oriol.is-a.dev/proyectos)
+- 📱 Responsive design optimized for smooth performance
+
+[![Visit 3D Portfolio](https://img.shields.io/badge/Website-oriol.is--a.dev-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://oriol.is-a.dev/)
+[![All Projects](https://img.shields.io/badge/Projects-oriol.is--a.dev/proyectos-007ACC?style=for-the-badge&logo=rocket&logoColor=white)](https://oriol.is-a.dev/proyectos)
+
+---
+
+### 2. [⛽ Gasofa](https://play.google.com/store/apps/details?id=com.oriolgds.gasofa)
+> Real-time, ad-free, and privacy-focused fuel price comparison app
+
+- 🗺️ Interactive map covering fuel stations across Spain, France, Portugal, Italy, Andorra, and the UK
+- 📈 Historical price trends, smart route planning, and custom discount management
+- 🔒 100% free, ad-free, and requires no user registration
+
+**Tech:** Flutter, Dart, REST APIs, Interactive Maps
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.oriolgds.gasofa)
+
+---
+
+### 3. [🌧️ RadarCAT](https://play.google.com/store/apps/details?id=cat.radarcat.app)
+> Real-time weather radar and storm tracker for Catalonia
+
+- 📡 High-resolution live rain, snow, and storm radar powered by open meteorological data (Meteocat) & satellite views
+- 📍 Pinpoint GPS accuracy with heading cone and fast municipality search across Catalonia
+- 🤖 Automated weather updates and community ecosystem across social media
+
+**Tech:** Flutter, Dart, Open Weather Data, Automation
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=cat.radarcat.app)
+[![X (Twitter)](https://img.shields.io/badge/X-@radarcat__ai-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/radarcat_ai)
+[![Instagram](https://img.shields.io/badge/Instagram-@radarcat__ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/radarcat_ai)
+
+---
+
+### 4. [🩺 Docai](https://play.google.com/store/apps/details?id=com.oriolgds.doky)
 > AI-powered medical assistant providing evidence-based health information
 
 - 🤖 Specialized medical AI with multilingual support (6 languages)
@@ -63,9 +104,12 @@ I'm a **passionate developer** and **Bachillerato student** from Barcelona, Spai
 
 **Tech:** Flutter, Dart, Supabase, AI/ML, Encryption
 
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.oriolgds.doky)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oriolgds/docai)
+
 ---
 
-### [☀️ FusionSolarAU](https://github.com/oriolgds/FusionSolarAU)
+### 5. [☀️ FusionSolarAU](https://play.google.com/store/apps/details?id=com.oriolgds.fusionsolarau)
 > Smart home automation that maximizes solar energy utilization
 
 - ⚡ Integrates with Huawei FusionSolar Northbound API
@@ -75,9 +119,12 @@ I'm a **passionate developer** and **Bachillerato student** from Barcelona, Spai
 
 **Tech:** Flutter, Dart, IoT Integration, REST APIs
 
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.oriolgds.fusionsolarau)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oriolgds/FusionSolarAU)
+
 ---
 
-### [🤖 Tech Gesture](https://github.com/oriolgds/tech-gesture)
+### 6. [🤖 Tech Gesture](https://tec.22web.org/?i=1)
 > AI-powered sign language translator
 
 - 🖐️ Real-time sign language recognition using computer vision
@@ -86,9 +133,12 @@ I'm a **passionate developer** and **Bachillerato student** from Barcelona, Spai
 
 **Tech:** Python, TensorFlow, Computer Vision, AI/ML
 
+[![Website](https://img.shields.io/badge/Website-Visit-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tec.22web.org/?i=1)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oriolgds/tech-gesture)
+
 ---
 
-### [👨‍🍳 Ordinem](https://github.com/oriolgds/ordinem)
+### 7. [👨‍🍳 Ordinem](https://ordinem.22web.org/?i=1)
 > Smart wardrobe system for intelligent food organization
 
 - 🚪 IoT-enabled wardrobe automation
@@ -96,6 +146,9 @@ I'm a **passionate developer** and **Bachillerato student** from Barcelona, Spai
 - 🏆 JAES Foundation Mini-Company Competition participant
 
 **Tech:** Flutter, IoT, Mobile Development
+
+[![Website](https://img.shields.io/badge/Website-Visit-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ordinem.22web.org/?i=1)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oriolgds/ordinem)
 
 ---
 
@@ -108,27 +161,21 @@ I'm a **passionate developer** and **Bachillerato student** from Barcelona, Spai
 
 ---
 
-## 🎵 Currently Vibing To
-
-- 🎧 **The Weeknd** - Die For You
-- 🎧 **Travis Scott** - I KNOW?
-
----
-
 ## 🌱 What I'm Currently Working On
 
-- 🩺 Enhancing **Docai** with multimodal support (image analysis)
-- ☀️ Expanding **FusionSolarAU** device compatibility
-- 📚 Learning advanced ML techniques and cloud architecture
-- 🎓 Preparing for university entrance exams (Selectividad) and UPC Mathematics degree
-- 🚀 Participating in hackathons and coding competitions
+- 🎓 Pursuing my **Mathematics degree** at the **University of Barcelona (UB)**
+- ⛽ Expanding features and European station coverage in **Gasofa**
+- 🌧️ Enhancing real-time weather tracking and automated channels for **RadarCAT**
+- 🩺 Improving **Docai** and expanding **FusionSolarAU** device compatibility
+- 📚 Exploring advanced mathematical modeling, ML techniques, and cloud architecture
 
 ---
 
 ## 📫 Let's Connect!
 
 - 💼 LinkedIn: [Oriol Giner](https://www.linkedin.com/in/oriol-giner/)
-- 🌐 Website: [oriol.is-a.dev](https://oriol.is-a.dev/)
+- 🌐 3D Portfolio: [oriol.is-a.dev](https://oriol.is-a.dev/)
+- 🚀 Projects: [oriol.is-a.dev/proyectos](https://oriol.is-a.dev/proyectos)
 - 🐦 Twitter/X: [@oriolgds](https://x.com/oriolgds)
 - 🏢 Company: Ors Apps
 
